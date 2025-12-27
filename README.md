@@ -1,52 +1,65 @@
 # Insta-ui-demo
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Instagram%20Login%20UI%20Demo&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Instagram%20Login%20UI%20Demo&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <b>📸 Modern • Responsive • Instagram-style Login UI</b>
+  <b>📸 Modern • Responsive • Instagram-Style Login UI</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Project-UI%20Demo-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML-5-orange?style=flat">
+  <img src="https://img.shields.io/badge/CSS-3-blue?style=flat">
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?style=flat">
+  <img src="https://img.shields.io/badge/UI-Demo-success?style=flat">
 </p>
 
 ---
 
-## ╔════════════════════════════════════╗
-## 📌 Project Overview
-## ╚════════════════════════════════════╝
+### ───────────────────────────
+### 📌 Project Overview
+### ───────────────────────────
 
-This project is a **clean and modern Instagram-inspired Login Page UI**, created using **HTML, CSS, and JavaScript**.  
-It is designed for **frontend UI practice**, **layout design**, and **animation learning**.
+This project is a **clean and responsive Instagram-inspired Login UI**, built using  
+**HTML, CSS, and JavaScript** for **frontend practice and UI design learning**.
 
-🔹 Inspired by Instagram’s official interface  
-🔹 Fully responsive and mobile-friendly  
-🔹 Educational & demonstration purpose only  
+🔹 Inspired by Instagram’s modern interface  
+🔹 Lightweight & responsive layout  
+🔹 Pure frontend (no backend required)  
+🔹 Designed for **educational use only**
 
 ---
 
-## ╔════════════════════════════════════╗
-## ✨ Features
-## ╚════════════════════════════════════╝
+### ───────────────────────────
+### ✨ Features
+### ───────────────────────────
 
 ✔ Instagram-style modern layout  
-✔ Clean input fields & buttons  
-✔ Smooth hover & focus effects  
-✔ Responsive design (Mobile / Desktop)  
+✔ Smooth input focus & hover effects  
+✔ Clean buttons and typography  
 ✔ Error & success message UI  
-✔ Minimal and professional look  
+✔ Mobile & desktop responsive  
+✔ Simple and readable code  
 
 ---
 
-## ╔════════════════════════════════════╗
-## 🛠️ Technologies Used
-## ╚════════════════════════════════════╝
+### ───────────────────────────
+### 🛠️ Technologies Used
+### ───────────────────────────
 
 ```text
-HTML5   → Structure
+HTML5   → Page structure
 CSS3    → Styling, borders & animations
-JS      → Form handling & UI logic
+JavaScript → UI logic & validation
+
+⚠️ IMPORTANT DISCLAIMER
+This project is created strictly for educational, UI design, and frontend practice purposes only.
+❌ This project is NOT affiliated with Instagram or Meta
+❌ Do NOT use this UI for phishing, impersonation, or collecting real user credentials
+Any misuse of this project is solely the responsibility of the user.
+The author is not liable for any unethical or illegal usage.
+───────────────────────────
+👤 Author
+───────────────────────────
+Pravin Mishra
+Frontend UI Practice • Ethical Learning
